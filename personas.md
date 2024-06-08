@@ -20,7 +20,7 @@ Dr. João é responsável por gerenciar e autorizar a transferência de paciente
 - Manter a comunicação fluida entre as diferentes partes envolvidas.
 - Garantir que as transferências sejam realizadas de forma rápida e sem erros.
 
-### Persona 2: Médico da Unidade de Destino
+### Persona 2: Dr. Mario Alves - Médico da Unidade de Destino
 
 **Contexto:**
 Um médico responsável por receber pacientes transferidos e assegurar que eles recebam os cuidados necessários na unidade de destino. Este médico precisa acessar rapidamente todas as informações relevantes sobre o paciente transferido e seguir os procedimentos estabelecidos pelo médico da unidade de origem.
@@ -41,7 +41,7 @@ Dr. Laura Torres trabalha em um hospital de referência e recebe um paciente tra
 - **Eficiência na Recepção:** Redução do tempo de espera e maior eficiência na recepção de pacientes transferidos.
 
 
-### Persona 3: Carla Menezes - Coordenadora Administrativa Hospitalar
+### Persona 3: Carla Oliveira - Coordenadora Administrativa Hospitalar
 
 **Idade:** 38 anos  
 **Gênero:** Feminino  
