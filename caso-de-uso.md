@@ -1,8 +1,8 @@
- Gerenciamento de Transferência de Pacientes
+ **Gerenciamento de Transferência de Pacientes**
 
-Título: Transferência de Paciente entre Unidades Hospitalares
+**Título:** Transferência de Paciente entre Unidades Hospitalares
 
-Ator Principal: Médico
+**Ator Principal:** Médico
 
 **Objetivo:** Facilitar e otimizar a transferência de pacientes entre unidades hospitalares através de um software de gerenciamento.
 
