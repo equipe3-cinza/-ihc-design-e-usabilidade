@@ -41,7 +41,7 @@ Dr. Laura Torres trabalha em um hospital de referência e recebe um paciente tra
 - **Eficiência na Recepção:** Redução do tempo de espera e maior eficiência na recepção de pacientes transferidos.
 
 
-### Persona 3: Carla Oliveira - Coordenadora Administrativa Hospitalar
+### Persona 3: Dra. Carla Oliveira - Coordenadora Administrativa Hospitalar
 
 **Idade:** 38 anos  
 **Gênero:** Feminino  
