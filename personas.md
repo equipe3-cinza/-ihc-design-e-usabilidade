@@ -63,12 +63,6 @@ Carla é responsável pela gestão dos recursos hospitalares, incluindo a aloca�
 - Garantir que todos os recursos necessários estejam disponíveis na unidade de destino.
 - Reduzir o tempo de espera e burocracia nas transferências.
 
-### Considerações Gerais para o Sistema de Transferência de Pacientes:
-- **Integração de Sistemas:** É essencial que o sistema possa se integrar com os diferentes sistemas hospitalares e operadoras de saúde (SUS e privados).
-- **Atualizações em Tempo Real:** Coleta e atualização de informações durante o transporte e comunicação contínua entre unidades.
-- **Facilidade de Uso:** Interface amigável e acessível para todos os usuários, com suporte para dispositivos móveis.
-- **Segurança e Privacidade:** Garantia de que todas as informações do paciente sejam mantidas seguras e confidenciais.
-
 ### Persona 4: Dr. Marcos Ferreira - Médico Requisitante
 
 **Idade:** 40 anos  
