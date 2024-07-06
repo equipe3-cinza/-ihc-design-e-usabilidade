@@ -13,3 +13,4 @@ Tarefas
 
 Ferramentas
 	- https://maze.co/ - possiu integração com figma
+ https://app.maze.co/projects/244214418
