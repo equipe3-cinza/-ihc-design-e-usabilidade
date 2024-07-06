@@ -22,7 +22,7 @@ Para a realização deste trabalho, você deverá propor: um website ou um aplic
 
 - Personas (1,0 ponto)
 - Cenários e Casos de Uso (1,0 ponto)
-- Protótipo (paper prototype, esboços (sketches), wireframes, modelos no Figma, Draw.io, etc): a prototipação poderá começar com a produção de um protótipo de baixa fidelidade (wireframe) para validação inicial, depois ir evoluindo para um protótipo de alta fidelidade. (5,0 pontos).
+- Protótipo (paper prototype, esboços (sketches), wireframes, modelos no Figma, Draw.io, etc): a prototipação poderá começar com a produção de um protótipo de baixa fidelidade (wireframe) para validação inicial, depois ir evoluindo para um protótipo de alta fidelidade. (5,0 pontos). <br/>
 [Figma](https://www.figma.com/design/0AMCAPRQRUAIw5mgEWgA2S/Sistema-de-Transfer%C3%AAncia-de-Pacientes?node-id=0-1&t=1iBRMGwhQ4tBIpd1-0)
 - Descrição do objeto de interação com imagens, screenshots, fotos, especificações técnicas, etc. (1,0 pontos)
 - Plano de Teste com o Usuário (Usabilidade e Experiência) com descrição das tarefas e métricas (tempo, erros, escalas Likert, etc). (2,0 pontos)
