@@ -1,12 +1,12 @@
-## Experiência de Usuário - Fundamentos de IHC /Design e Usabilidade (UI/UX)
-Prof.: Jacson Barbosa
-Alunos:
-- Alan Brilhante Coutinho
-- Arthur Vieira Guimarães
-- Caio Alexandre Oliveira Alves
-- Fabricio da Silva Pires
-- Lucas Araujo Ribeiro
-- Wilglison Rilniky Oliveira dos Santos
+## Experiência de Usuário - Fundamentos de IHC /Design e Usabilidade (UI/UX) 
+Prof.: Jacson Barbosa <br/>
+Alunos: <br/>
+Alan Brilhante Coutinho <br/>
+Arthur Vieira Guimarães <br/>
+Caio Alexandre Oliveira Alves <br/>
+Fabricio da Silva Pires <br/>
+Lucas Araujo Ribeiro <br/>
+Wilglison Rilniky Oliveira dos Santos <br/>
 
 ## Projeto Final
 Prazo para submissão do Artefato:
