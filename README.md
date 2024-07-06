@@ -1,4 +1,4 @@
-## Experiência de Usuário - Fundamentos de IHC /Design e Usabilidade (UI/UX) - Prof.: Jacson Barbosa
+# Experiência de Usuário - Fundamentos de IHC /Design e Usabilidade (UI/UX) - Prof.: Jacson Barbosa
 **Projeto Final (Em Grupo)** <br/><br/>
 **Alunos:** <br/>
 Alan Brilhante Coutinho <br/>
@@ -8,7 +8,7 @@ Fabricio da Silva Pires <br/>
 Lucas Araujo Ribeiro <br/>
 Wilglison Rilniky Oliveira dos Santos <br/>
 
-# Prazo para submissão do Artefato:
+## Prazo para submissão do Artefato:
 
 1ª Iteração - 22/06/2024 (incluindo o planejamento do teste com o usuário) <br/>
 2ª Iteração - 13/07/2024 - Entrega da versão final (no github) e apresentação dos principais artefatos (vídeo de máximo 15min)  <br/>
