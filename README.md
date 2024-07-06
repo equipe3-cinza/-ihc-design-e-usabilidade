@@ -1,5 +1,5 @@
 ## Experiência de Usuário - Fundamentos de IHC /Design e Usabilidade (UI/UX) - Prof.: Jacson Barbosa
-#Projeto Final (Em Grupo)
+**Projeto Final (Em Grupo)** <br/><br/>
 **Alunos:** <br/>
 Alan Brilhante Coutinho <br/>
 Arthur Vieira Guimarães <br/>
