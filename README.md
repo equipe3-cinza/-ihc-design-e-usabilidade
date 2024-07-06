@@ -11,13 +11,13 @@ Wilglison Rilniky Oliveira dos Santos <br/>
 ## Projeto Final
 Prazo para submissão do Artefato:
 
-1ª Iteração - 22/06/2024 (incluindo o planejamento do teste com o usuário)
-2ª Iteração - 13/07/2024 - Entrega da versão final (no github) e apresentação dos principais artefatos (vídeo de máximo 15min)
+1ª Iteração - 22/06/2024 (incluindo o planejamento do teste com o usuário) <br/>
+2ª Iteração - 13/07/2024 - Entrega da versão final (no github) e apresentação dos principais artefatos (vídeo de máximo 15min)  <br/>
 
-Objetivo
+## Objetivo
 O objetivo deste trabalho é realizar um exercício de aplicação de todos os conceitos aprendidos na disciplina. Para tanto, este trabalho poderá ser realizado em grupos (definição dos grupos).
 
-Descrição
+## Descrição
 Para a realização deste trabalho, você deverá propor: um website ou um aplicativo móvel (iOS, Android, etc). O objeto de interação escolhido deverá ser de acordo com o estudo de caso que será analisado pelo grupo em termos de usabilidade e experiência. Como resultado, o grupo deverá propor os seguintes artefatos:
 
 - [Personas](https://github.com/equipe3-cinza/ihc-design-e-usabilidade/blob/main/personas.md) (1,0 ponto)
