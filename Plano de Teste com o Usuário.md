@@ -5,10 +5,11 @@ Objetivo
 	- Se tem uma boa usabilidade.
  	- Insights para possiveis melhorias
 Tarefas
-  - Cadastrar usuário Médico
-  - Cadastrar paciente
-  - Cadastrar hospital
+  - Criar\Alterar Prontuário Pacientes
+  - Solicitar a transferência de um paciente (Médico Requisitante)
+  - Aprovar a transferência de um paciente(Médico Regulador )
   - Realizar uma transferência de paciente
+  - Receber a transferência de um paciente (Médico unidade destino)
 
 Ferramentas
 	- https://maze.co/ - possiu integração com figma
