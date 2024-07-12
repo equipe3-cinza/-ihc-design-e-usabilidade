@@ -1,10 +1,10 @@
-## Plano de Teste de Usabilidade
+#Plano de Teste de Usabilidade
 
-**Objetivo**
+###Objetivo
 	- Descobrir se o usuário consegue realizar as operações do sistema sem dificuldades
 	- Se tem uma boa usabilidade.
  	- Insights para possiveis melhorias
-**Tarefas**
+###Tarefas
   - Abrir prontuário de algum paciente
   - Cadastrar a transferência de um paciente (Médico Requisitante)
   - Aprovar a transferência de um paciente(Médico Regulador )
